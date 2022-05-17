@@ -42,7 +42,7 @@ A leap year (also known as an intercalary year or bissextile year) is a calendar
 
 * Write a program that prints the first 20 elements of Fibonacci sequence: 
 
-* Fibonacci sequence is a series of numbers in which each number ( Fibonacci number ) is the sum of the two preceding numbers, and the first two wlements are 0 and 1
+* Fibonacci sequence is a series of numbers in which each number ( Fibonacci number ) is the sum of the two preceding numbers, and the first two elements are 0 and 1
 
 * it starts like 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ..
 
