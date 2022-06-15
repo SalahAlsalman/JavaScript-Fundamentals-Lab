@@ -32,6 +32,9 @@ switch (myVar) {
   case 7:
     console.log("Saturday");
     break;
+  default:
+    console.log("out of range");
+    break;
 }
 console.log("\n******************************");
 
@@ -102,12 +105,12 @@ console.log("\n******************************");
 //Question 8: Nested for loop
 console.log("\nQuestion 8: Nested for loop\n");
 for (let i = 1; i <= 5; i++) {
-//   console.log();
+  //   console.log();
   let table = `Multiplication table of ${i}: `;
   for (let j = 1; j <= 10; j++) {
     table += i * j + ",";
   }
-  console.log(table + '\n');
+  console.log(table + "\n");
 }
 console.log("\n******************************");
 
